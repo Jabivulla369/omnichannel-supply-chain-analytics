@@ -1,4 +1,4 @@
-**Omnichannel Supply Chain Analytics Platfor**
+**Omnichannel Supply Chain Analytics Platform**
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
